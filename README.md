@@ -1,15 +1,15 @@
-#Expense Tracker
+# Expense Tracker
 
 The Expense Tracker is a Python program that allows users to keep track of their expenses and incomes. The program has a simple graphical user interface and allows the user to add expenses and incomes, visualize their expenses and incomes, and open CSV files containing their expenses and incomes.
 
-##Requirements
+## Requirements
 
 The program requires the following software to be installed on your machine:
 
 - Python 3.x
 - PySimpleGUI
 
-##How to Use
+## How to Use
 
 Clone this repository or download the code as a zip file and extract it to your local machine.
 
@@ -31,6 +31,6 @@ Click on the "Open" button to browse and open CSV files containing your expenses
 
 Click on the "Quit" button or close the program window to exit the program.
 
-##License
+## License
 
 You are free to use, modify, and have fun with the program.

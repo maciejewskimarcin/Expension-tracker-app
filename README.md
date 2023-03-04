@@ -17,7 +17,7 @@ Open a terminal or command prompt and navigate to the directory where you have s
 
 Run the following command to start the program:
 
-python expense_tracker.py
+_python expense_tracker.py_
 
 The program will open a window with several options, such as "Add expense", "Add income", "Visualization", "Open", and "Quit".
 

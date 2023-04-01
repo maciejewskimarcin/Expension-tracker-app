@@ -161,18 +161,4 @@ while True:
 
 
 main_window.close()
-Footer
-© 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-my_project/main0.2.py at master · LiubomyrChumak/my_project
+

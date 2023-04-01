@@ -1,32 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Codespaces
-Marketplace
-Explore
- 
-@maciejewskimarcin 
-LiubomyrChumak
-/
-my_project
-Public
-Fork your own copy of LiubomyrChumak/my_project
-Code
-Issues
-Pull requests
-Actions
-Projects
-Security
-Insights
-my_project/main0.2.py /
-@LiubomyrChumak
-LiubomyrChumak Fixed issues with browse window
-Latest commit b5798b1 on Jun 10, 2020
- History
- 1 contributor
-Executable File  134 lines (112 sloc)  5.32 KB
-
 import PySimpleGUI as sg
 import csv
 import os

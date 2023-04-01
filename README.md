@@ -1,4 +1,5 @@
 # Expense Tracker
+***
 
 The Expense Tracker is a Python program that allows users to keep track of their expenses and incomes. The program has a simple graphical user interface and allows the user to add expenses and incomes, visualize their expenses and incomes, and open CSV files containing their expenses and incomes.
 

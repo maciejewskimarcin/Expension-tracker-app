@@ -1,7 +1,7 @@
+import sys
 import PySimpleGUI as sg
 import csv
 import os
-import sys
 import pandas
 import subprocess
 

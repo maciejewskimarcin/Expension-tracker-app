@@ -15,11 +15,11 @@ Created at:
 
 ## Goals and Non-Goals
 
-...
+Aplication to manage home budget
 
 ## Proposed solution
 
-Starting with high-level design, arch diagrams, screenshots, mockups,... 
+We are planning to make a simple desktop apllication, were you can add your incomes and expenses. App creates than Excel spredsheet were you see what is what. 
 
 ...
 

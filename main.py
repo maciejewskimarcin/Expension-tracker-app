@@ -1,16 +1,16 @@
 import sys
-import PySimpleGUI as sg
 import csv
 import os
 import pandas
 import subprocess
+import PySimpleGUI as sg
 
 # 1. Create a showstats window
 
 
 # csv files
-EX_file = 'expensedata.csv'
-IN_file = 'incomedata.csv'
+EX_FILE = 'expensedata.csv'
+IN_FILE = 'incomedata.csv'
 
 # theme
 sg.theme('Light blue')
@@ -114,7 +114,7 @@ while True:
             if event != sg.TIMEOUT_KEY:
                 print('win3', event)
             if event == 'Add income':
-                with open(IN_file, 'a', newline='') as fi:
+                with open(IN_FILE, 'a', newline='') as fi:
                     fieldnames = ['Earned', 'Data', 'Description']
                     writer_2 = csv.DictWriter(fi, fieldnames=fieldnames)
                     writer_2.writerow({'Earned': values['-EARN-'], 'Data': values['-DATA-'],

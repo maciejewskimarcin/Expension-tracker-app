@@ -6,12 +6,14 @@ The Expense Tracker is a Python program that allows users to keep track of their
 
 The program requires the following software to be installed on your machine:
 
+- Ubuntu
 - Python 3.x
 - PySimpleGUI
+- Docker
 
 ## How to Use
 
-Clone this repository or download the code as a zip file and extract it to your local machine.
+Clone this repository or download the code as a zip file and extract it to your local machine, based on Ubuntu.
 
 Open a terminal or command prompt and navigate to the directory where you have saved the code.
 

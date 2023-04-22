@@ -5,11 +5,16 @@ Created at:
 
 ## Intro
 
-*With the sky-rocketing inflation in Poland we came up with an idea, that it's worth it to spend few minutes managing home budget*
+*With the sky-rocketing inflation in Poland we came up with an idea, that it's worth to spend few minutes managing your home budget*
 
-*Python/Excel*
+*We are creating a simple desktop application to manage your budget using Python programing laanguage that creates an Excel spredsheet with your incomes and spendings,
+where you can see and analize your budget*
 
-*Desktop application*
+*We have four sessions to create Desktop application:
+- we will use Agile methodology
+- we chose to use Python programming language and Excel spreadsheets
+- we will use Github for version controll
+- in four sprints we are planning to deliver
 
 ...
 
@@ -23,7 +28,7 @@ We are planning to make a simple desktop apllication, were you can add your inco
 
 ...
 
-You might here also touch things, such as testing.
+We might here also touch things, such as testing.
 
 ## Other options
 
